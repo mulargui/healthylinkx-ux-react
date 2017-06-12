@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+#other files
+w2l.sh
+l2w.sh
